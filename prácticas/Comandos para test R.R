@@ -12,7 +12,7 @@
 #     When a package is a non-base and we want to use it, we must installed it first and then load it.
 #
 # Install a package:
-#     install.package(name_of_it)
+#     install.packages("name_of_it")
 #
 # load a package:
 #     library(name_of_it)
@@ -62,9 +62,45 @@
 #       Goty function, it prints an example of the use of the function.
 # 
 # 
+# Esc or ctrl + c si R se queda +++++++++++++++ para que vuelva a >.
+# ctrl + L : it cleans the console in R.
+#
+# 
+# na.omit(x), removes na's from vectors and dataframes
+#
+# 
+# str() to have a look at the structure of a dataframe
+#
+# 
+# indexing in dataframe:
+#
+#   df[row,column] -> gives me the element at row, row and the column at coloumn.
+# 
+#   df is the dataframe.
+# 
+#   IMPORTANTE:
+# 
+#     If the dataframe is named, then you can select an entire column like this>
+#     penguins[penguins$year,]. This will select the entire column year in the df
+#     penguins.
+#     Look, penguins$year is the row, you are selecting the entire column bacause
+#     you aren't specifying a column, xd
+# 
+#   -------------------------------------------------
+#   table() -> devuelve la frecuencia absoluta de cada
+#   elemento dentro de un vector que pases como argumento.
+#   -------------------------------------------------
+# 
+# 
+#   
 # 
 # 
 # 
-
-
-
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
