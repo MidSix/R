@@ -1,0 +1,14 @@
+Examen:
+Sobre prácticas 2 y 3. No 1 ni 4.
+mañana 14 mayo
+30% de la nota:
+se divide en dos partes:
+	1	
+		25mins
+		Test de conceptos(Bolígrafo y calculadora) sobre las prácticas de Descriptiva (univariante, bivariante y multivariante) 
+	2
+		Práctica 90 min
+		Trabajar con un conjunto de datos dado
+		generar resultados a partir de ellos que 
+		respondan a preguntas
+		(Se pueden tener las prácticas abiertas y scripts de R.)
